@@ -5,10 +5,11 @@
     <h1 align="center">✩ Omar Abdulkhadir ✩</h1>
 </p>
 
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engr-pirlo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true" alt="engr-pirlo" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engr-pirlo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true" alt="engr-pirlo" /></a> </p>
+
+
 
 
 - 🔭 I’m currently working on [YouTube Tutorials](https://www.youtube.com/@Omar-JibrilDev/videos)

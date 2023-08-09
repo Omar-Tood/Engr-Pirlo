@@ -6,8 +6,7 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Engr-pirlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engr-pirlo&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true" alt="engr-pirlo" /></a> </p>
 
@@ -46,6 +45,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Engr-pirlo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
